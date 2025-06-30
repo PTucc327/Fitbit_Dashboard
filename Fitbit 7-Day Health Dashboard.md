@@ -38,7 +38,7 @@ You can install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 🚀 Run the App
 
@@ -56,9 +56,6 @@ Three plots (steps, sleep, heart rate)
 Date range summary
 
 PDFs are created using the reportlab library and can be downloaded from the sidebar.
-
-📸 Screenshots
-Add screenshots of your app here for better visibility (optional)
 
 📌 Notes
 Data files (fitbit_steps.csv, etc.) must be in the same directory as the app.
